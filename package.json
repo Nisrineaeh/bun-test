@@ -1,0 +1,14 @@
+{
+  "name": "bun-test",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
