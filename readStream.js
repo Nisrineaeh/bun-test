@@ -5,3 +5,5 @@ await Bun.readableStreamToBlob(response.body); // => Blob
 await Bun.readableStreamToJSON(response.body); // => object
 await Bun.readableStreamToText(response.body); // => string
 await Bun.readableStreamToArray(response.body); // => unknown[]
+
+//test
